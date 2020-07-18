@@ -1,0 +1,9 @@
+ShopMart
+123 Baker street
+tel: (555) 123-4567
+
+Receipt:
+
+Banana      $20000.31231
+Apple       $50120.501231
+Juice       $13110.121
